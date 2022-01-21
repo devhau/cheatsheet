@@ -1,3 +1,6 @@
+# artisan
+
+```php
 // Added in 5.1.11:http://laravel.com/docs/authorization#creating-policies
 php artisan make:policy PostPolicy
 // Displays help for a given command
@@ -173,3 +176,4 @@ php artisan session:table
 // --tag          The tag that has assets you want to publish.
 php artisan vendor:publish [--force] [--provider[="..."]] [--tag[="..."]]
 php artisan tail [--path[="..."]] [--lines[="..."]] [connection]
+```
